@@ -1,5 +1,17 @@
-# CV-Project
+# CV-Project | Power Loss Estimation for Photovoltaic Modules
+
 Computer Vision Project for Solar Pannels
+
+## Introduction
+
+ Solar photovoltaic (PV) modules play a crucial role in renewable energy systems. However, their efficiency can be compromised by environmental factors such as dust and dirt accumulation. This project aims to develop an AI model for predicting power loss in PV modules due to soiling.
+
+This project **aims to achieve three** main **goals**:
+
+Develop an AI model that predicts the power loss of a PV module.
+ - Use data augmentation techniques to improve the accuracy of the model.
+ - Develop a CV pipeline to automatically segment the soiling of PV modules.
+ - The project will also evaluate the performance of the AI model and CV pipeline using a variety of metrics.
 
 ### Part I
 
