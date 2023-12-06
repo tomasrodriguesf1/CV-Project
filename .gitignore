@@ -1,3 +1,6 @@
 .idea/*
 SolarPanelSoilingImageDataset/*
 *.csv
+df_2.csv
+filtered_data.csv
+final_df.csv
